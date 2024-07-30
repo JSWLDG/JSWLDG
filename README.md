@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Please visit here (https://github.com/abhisheknaiidu/abhisheknaiidu)
+If you want to get to know me, please visit here: https://github.com/rhksdnr24
 <!--
 **JSWLDG/JSWLDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
